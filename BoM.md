@@ -1,9 +1,8 @@
 ---
 
 Component: A, A
-Model: B, B
-Quantity: C, C
-Lowest Price: D, D
-Link: E, E
-
+Model: B
+Quantity: C
+Lowest Price: D
+Link: E
 ---

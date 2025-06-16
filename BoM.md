@@ -7,6 +7,7 @@ Lowest Price: D
 Link: E
 
 ---
+---
 
 Component: A
 Model: B

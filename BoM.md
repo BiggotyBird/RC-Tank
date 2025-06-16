@@ -1,9 +1,9 @@
 ---
 
-Component: Esp 32
-Model: Esp32 Devkit C
-Quantity: 1
-Lowest Price: $12
-Link: abcdefghijklmnop
+Component: A, A
+Model: B, B
+Quantity: C, C
+Lowest Price: D, D
+Link: E, E
 
 ---

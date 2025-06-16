@@ -1,3 +1,3 @@
 ---
-Component | Model | Quantity | Lowest price | Link
+Component|Model|Quantity|Lowest price|Link
 ---

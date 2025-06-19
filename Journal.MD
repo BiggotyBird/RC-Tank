@@ -15,5 +15,7 @@ I have never needed nor designed my PCB, but I found it fit well into my project
 I ran into problems assigning the correct footprints as well as transitioning the circuit diagram and organising the PCB.
 With a little bit of research and with some time, I overcame these. The circuit diagram and PCB will be linked below.
 
+
+
 DAY 2 "17/06/2025": 
 

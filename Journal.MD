@@ -7,7 +7,7 @@ Created at: "16/06/2025"
 
 ---
 
-DAY 1 "16/06/2025": Circuit Diagram and PCB design
+DAY 1 "21/06/2025": Circuit Diagram and PCB design
 
 Today I spent 5 hours working on my RC tank's circuit diagram and PCB design.
 My software of choice  was Kikad. This was not my first time using Kikad, but my first time utilising the PCB editor feature.
@@ -17,5 +17,7 @@ With a little bit of research and with some time, I overcame these. The circuit 
 
 
 
-DAY 2 "17/06/2025": 
+DAY 2 "22/06/2025":  BOM
+
+
 

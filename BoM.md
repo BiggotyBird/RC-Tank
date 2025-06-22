@@ -12,5 +12,5 @@ Miscellaneous | 1 container each | Solder, Flux | $4.20, $2.97 | https://www.ali
 PCB | N/A | 1 | $5 estimate | https://jlcpcb.com/?from=VGRB&utm_source=google&utm_medium=cpc&utm_campaign=13868823541&utm_content=686037272631&utm_term=b_jlcpcb&adgroupid=124228404946&utm_network=g_&gad_source=1&gad_campaignid=13868823541&gbraid=0AAAAACm70I-NrqM8ccR81Ndn70w16DHIj&gclid=Cj0KCQjwsNnCBhDRARIsAEzia4BVx_S_vQnBeW784humULXYmtKzC3aRhBu4ZKjitqejWK5RKLcR1UgaAnm9EALw_wcB |
 3D Print | N/A | 1 | N/A | N/A |
 
-$73.49 AUD Total Price.
+$80.18 AUD Total Price.
 

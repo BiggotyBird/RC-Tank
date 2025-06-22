@@ -11,9 +11,9 @@ DAY 1 "20/06/2025": Circuit Diagram and PCB design
 
 Today, I spent 5 hours working on my RC tank's circuit diagram and PCB design.
 My software of choice was Kikad. This was not my first time using Kikad, but my first time utilising the PCB editor feature.
-I have never needed nor designed my PCB, but I found it fit well into my project.
+I have never needed nor designed a PCB, but I found it fit well into my project.
 I ran into problems assigning the correct footprints as well as transitioning the circuit diagram and organising the PCB.
-With a little bit of research and with some time, I overcame these. The circuit diagram and PCB will be displated below.
+With a little bit of research and with some time, I overcame these. The circuit diagram and PCB will be displayed below.
 
 
 

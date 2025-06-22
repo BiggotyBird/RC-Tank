@@ -22,5 +22,6 @@ DAY 2 "21/06/2025":  BOM
 Today, I spent another 5 hours researching for my BOM.
 I relied primarily on AliExpress for parts due to high-rated reviews and unbelievably low prices
 I've displayed all the parts, their quantity, their model, lowest price and finally linked its webpage.
+I have spent $80.18 AUD with my overall budget being $231.75 AUD
 The BOM will be displayed below.
 

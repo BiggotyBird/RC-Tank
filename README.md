@@ -1,2 +1,2 @@
 # RC-Tank
-A tank which can be remote controlled featuring a movable laser pointer barrel.
+A tank that can be remotely controlled, featuring a movable laser pointer barrel. This project will utilise a PCB and a 3D printed case, which will be controlled through the bluetooth RC Controller app. Previously, I have made a motrised wooden car, and I believe this project will be an excellent way to develop my precision, electronics, and 3d printing skills. I have an interest in history aswell as electronics and i find this to be the perfect blend of both. Below I will display my BOM and sonme pictures to allow for a better feal of the project.

@@ -25,8 +25,11 @@ I've displayed all the parts, their quantity, their model, lowest price and fina
 I have spent $80.18 AUD with my overall budget being $231.75 AUD
 The BOM will be displayed below.
 
-DAY 3 "22/06/2025": Code
+
+DAY 3 "22/06/2025": 3D Print
 
 Today, I spent 5 hours designing the code for my RC Tank.
-I am not a vivid coder and try to avoid coding where possible, but it is vital for this project.
-My main problem in coding is identifying error messages and neatly formatting my code.
+I am not a vivid 3D designer, but I tried my best.
+My tank may look a bit iffy, but I'm proud of my work today.
+Tomorrow I plan on finishing my 3D print as I have not yet designed the screwholes and suspensions.
+My progress will be displayed below.

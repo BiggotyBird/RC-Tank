@@ -17,7 +17,7 @@ With a little bit of research and with some time, I overcame these. The circuit 
 
 
 
-DAY 2 "21/06/2025":  BOM
+DAY 2 "21/06/2025": BOM
 
 Today, I spent another 5 hours researching for my BOM.
 I relied primarily on AliExpress for parts due to high-rated reviews and unbelievably low prices
@@ -25,3 +25,8 @@ I've displayed all the parts, their quantity, their model, lowest price and fina
 I have spent $80.18 AUD with my overall budget being $231.75 AUD
 The BOM will be displayed below.
 
+DAY 3 "22/06/2025": Code
+
+Today, I spent 5 hours designing the code for my RC Tank.
+I am not a vivid coder and try to avoid coding where possible, but it is vital for this project.
+My main problem in coding is identifying error messages and neatly formatting my code.

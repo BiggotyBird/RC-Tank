@@ -16,7 +16,9 @@ I have never needed nor designed a PCB, but I found it fit well into my project.
 I ran into problems assigning the correct footprints as well as transitioning the circuit diagram and organising the PCB.
 With a little bit of research and with some time, I overcame these. The circuit diagram and PCB will be displayed below.
 
-
+![image](https://https://github.com/BiggotyBird/RC-Tank/blob/main/Circuit/RC%20Tank%20Schematic.png?raw=true)
+![image](https://...)
+![image](https://...)
 
 DAY 2 "21/06/2025": BOM
 
@@ -26,7 +28,7 @@ I've displayed all the parts, their quantity, their model, lowest price and fina
 I have spent $80.18 AUD with my overall budget being $231.75 AUD
 The BOM will be displayed below.
 
-
+![image](https://...)
 
 DAY 3 "22-25/06/2025": 3D Print
 
@@ -37,6 +39,7 @@ Keeping dimensions correct also posed a problem.
 I've learned a lot through these sessions and plan on doing the code, polishing the project, and submitting tomorrow.
 The design will be displayed below.
 
+![image](https://...)
 
 DAY 4 "26/06/2025": Code
 

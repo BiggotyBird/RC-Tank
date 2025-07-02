@@ -37,7 +37,6 @@ Keeping dimensions correct also posed a problem.
 I've learned a lot through these sessions and plan on doing the code, polishing the project, and submitting tomorrow.
 The design will be displayed below.
 
-https://github.com/BiggotyBird/RC-Tank/blob/main/3D%20Print/Chassis.png?raw=true
 
 DAY 4 "26/06/2025": Code
 

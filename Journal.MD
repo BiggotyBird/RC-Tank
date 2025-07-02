@@ -35,6 +35,8 @@ Keeping dimensions correct also posed a problem.
 I've learned a lot through these sessions and plan on doing the code, polishing the project, and submitting tomorrow.
 The design will be displayed below.
 
+3D Print/Barrel.png
+
 DAY 4 "26/06/2025": Code
 
 

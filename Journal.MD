@@ -4,7 +4,7 @@ Title: RC Tank
 Author: Arda Redjeb (Your Local Turk or Arda Redjeb on Slack)
 Description: My project is a remote-controlled tank with a movable laser as a barrel.
 Created at: "20/06/2025"
-
+Time spent: 30 Hours
 ---
 
 DAY 1 "20/06/2025": Circuit Diagram and PCB design
@@ -34,8 +34,6 @@ The main challenges wasnt the big component such as the chasis but rather the tr
 Keeping dimensions correct also posed a problem. 
 I've learned a lot through these sessions and plan on doing the code, polishing the project, and submitting tomorrow.
 The design will be displayed below.
-
-3D Print/Barrel.png
 
 DAY 4 "26/06/2025": Code
 

@@ -5,6 +5,7 @@ Author: Arda Redjeb (Your Local Turk or Arda Redjeb on Slack)
 Description: My project is a remote-controlled tank with a movable laser as a barrel.
 Created at: "20/06/2025"
 Time spent: 30 Hours
+
 ---
 
 DAY 1 "20/06/2025": Circuit Diagram and PCB design
@@ -26,6 +27,7 @@ I have spent $80.18 AUD with my overall budget being $231.75 AUD
 The BOM will be displayed below.
 
 
+
 DAY 3 "22-25/06/2025": 3D Print
 
 Over the past 3 days I have spent 15 hours designing the 3D print for my RC Tank.
@@ -34,6 +36,8 @@ The main challenges wasnt the big component such as the chasis but rather the tr
 Keeping dimensions correct also posed a problem. 
 I've learned a lot through these sessions and plan on doing the code, polishing the project, and submitting tomorrow.
 The design will be displayed below.
+
+
 
 DAY 4 "26/06/2025": Code
 
